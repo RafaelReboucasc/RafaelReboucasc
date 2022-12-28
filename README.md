@@ -1,7 +1,7 @@
 <div>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=RafaelReboucasc&show_icons=true&theme=dark" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReboucasc&theme=dark" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReboucasc&layout=compact&theme=dark" />
 
 
 </div>
